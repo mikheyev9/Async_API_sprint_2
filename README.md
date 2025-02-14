@@ -1,3 +1,6 @@
+Этот проект был перенесён из [sprint5-project](https://github.com/mikheyev9/sprint5-project).
+
+
 # Сервис ETL
 
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
